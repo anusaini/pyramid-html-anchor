@@ -1,0 +1,20 @@
+{
+  "name": "pyramid-html-anchor",
+  "version": "1.0.0",
+  "description": "Create an anchor tag out of pyramid-html syntax for node applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anusaini/pyramid-html-anchor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anusaini/pyramid-html-anchor/issues"
+  },
+  "homepage": "https://github.com/anusaini/pyramid-html-anchor#readme"
+}
